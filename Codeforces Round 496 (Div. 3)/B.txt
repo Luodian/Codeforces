@@ -1,0 +1,12 @@
+test
+west
+codeforces
+yes
+test
+yes
+b
+ab
+a
+b
+aaa
+aab
